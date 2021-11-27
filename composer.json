@@ -1,5 +1,5 @@
 {
-    "name": "goaop/goaop-laravel-bridge",
+    "name": "walterwoshid/goaop-laravel-bridge",
     "description": "Integration bridge for Go! AOP framework",
     "type": "library",
     "keywords": ["bridge", "laravel", "aop", "php", "aspect"],
