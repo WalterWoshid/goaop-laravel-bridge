@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["bridge", "laravel", "aop", "php", "aspect"],
     "require": {
-        "goaop/goaop-framework": "dev-fork",
+        "walterwoshid/goaop-framework": "^1.0.0",
         "illuminate/support": "^8"
     },
     "license": "MIT",
