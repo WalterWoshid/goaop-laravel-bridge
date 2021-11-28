@@ -4,24 +4,9 @@
     "type": "library",
     "keywords": ["bridge", "laravel", "aop", "php", "aspect"],
     "require": {
-        "walterwoshid/framework": "^1.0.0",
+        "walterwoshid/goaop-framework": "^1.0.0",
         "illuminate/support": "^8"
     },
-    "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "walterwoshid/goaop-framework",
-                "version": "^1.0.0",
-                "type": "package",
-                "source": {
-                    "url": "git@github.com:/walterwoshid/goaop-framework.git",
-                    "type": "git",
-                    "reference": "fork"
-                }
-            }
-        },
-    ],
     "license": "MIT",
     "authors": [
         {
